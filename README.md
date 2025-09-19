@@ -1,21 +1,21 @@
 # 🎬 Netflix Movie Recommendation System  
 
 ## 📌 Project Overview  
-This project is a **content-based movie recommendation system** built using the **Netflix dataset**.  
-The goal is to recommend movies that are similar to a user’s choice by analyzing metadata such as **genres, descriptions, and release year**.  
+This project is a content-based movie recommendation system built using the Netflix dataset.  
+The goal is to recommend movies that are similar to a user’s choice by analyzing metadata such as genres, descriptions, and release year.  
 
 The project is divided into two main parts:  
-1. **Exploratory Data Analysis (EDA):**  
+1. Exploratory Data Analysis (EDA):  
    - Cleaning and preprocessing the dataset.  
    - Analyzing trends in genres, release years, and content distribution.  
    - Visualizing insights with Python libraries.  
 
-2. **Recommendation Engine:**  
-   - Implemented **TF-IDF vectorization** on movie descriptions.  
-   - Used **cosine similarity** to calculate similarity between movies.    
-   - Added **explainability** (showing why a movie was recommended).  
+2. Recommendation Engine:  
+   - Implemented TF-IDF vectorization on movie descriptions.  
+   - Used cosine similarity to calculate similarity between movies.    
+   - Added explainability (showing why a movie was recommended).  
 
-An interactive **Streamlit app** is also included, allowing users to input a movie title and receive tailored recommendations.  
+An interactive Streamlit app is also included, allowing users to input a movie title and receive tailored recommendations.  
 
 ---
 
@@ -28,8 +28,8 @@ An interactive **Streamlit app** is also included, allowing users to input a mov
 
 ## 🚀 Features  
 - Content-based recommendations using TF-IDF and cosine similarity.  
-- User-friendly **Streamlit app** for real-time recommendations.  
-- Filters by **genre and release year**.  
+- User-friendly Streamlit app for real-time recommendations.  
+- Filters by genre and release year.  
 - EDA with meaningful insights about Netflix content.  
 
 ---
