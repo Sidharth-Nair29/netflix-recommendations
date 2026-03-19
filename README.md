@@ -48,13 +48,6 @@ netflix-recommendation/
 └── README.md
 ```  
 
----
-
-## 📊 Sample Output  
-*(Insert screenshot of Streamlit app or EDA graphs here)*  
-
----
-
 ## 🔮 Future Enhancements  
 - Hybrid recommendations (content + collaborative filtering).  
 - Improved explainability with keyword highlights.  
